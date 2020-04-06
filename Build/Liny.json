@@ -1,0 +1,16 @@
+{
+"companyName": "Didactix",
+"productName": "GRAJĄCE LINY",
+"productVersion": "0.1",
+"dataUrl": "Liny.data.unityweb",
+"wasmCodeUrl": "Liny.wasm.code.unityweb",
+"wasmFrameworkUrl": "Liny.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FAF4FF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
